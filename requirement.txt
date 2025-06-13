@@ -1,0 +1,8 @@
+Flask
+pandas
+openpyxl
+xlsxwriter
+python-dateutil
+pytz
+Werkzeug
+fpdf2
